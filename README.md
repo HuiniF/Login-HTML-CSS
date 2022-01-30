@@ -5,7 +5,7 @@ This's an exemple of login screen with HTML and CSS for smartphone
 
 
 
-<img src="./CssloginEx.jpg" alt="exemplo imagem">
+<img src="./ExLogin.jpg" alt="exemplo imagem">
 
 > Exemplo de como a tela de login ficará nos smartphones
 
