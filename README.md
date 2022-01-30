@@ -29,7 +29,7 @@ Projeto realizado por:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="../../perfilHuini.jpg" width="100px;" alt="Foto da Huini Forte"/><br>
+        <img src="./perfilHuini.jpg" width="100px;" alt="Foto da Huini Forte"/><br>
         <sub>
           <b>Huini Forte</b>
         </sub>
